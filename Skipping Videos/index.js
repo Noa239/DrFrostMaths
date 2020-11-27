@@ -1,0 +1,1 @@
+respondToWatch = function(data){ haveWatchedVideo(data.vid);};

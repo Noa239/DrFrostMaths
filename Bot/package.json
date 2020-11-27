@@ -1,0 +1,32 @@
+{
+  "name": "drfrostmaths-bot",
+  "version": "1.0.0",
+  "description": "Farms points for DrFrostMaths",
+  "main": "index.js",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "got": "^11.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefanuk12",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefanuk12/DrFrostMaths.git"
+  },
+  "keywords": [
+    "drfrostmaths",
+    "dr",
+    "frost",
+    "maths",
+    "dfr",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/Stefanuk12/DrFrostMaths/issues"
+  },
+  "homepage": "https://github.com/Stefanuk12/DrFrostMaths#readme"
+}
