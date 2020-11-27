@@ -1,1 +1,1 @@
-respondToWatch = function(data){ haveWatchedVideo(data.vid);};
+respondToWatch = function(data){haveWatchedVideo(data.vid);};
