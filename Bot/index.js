@@ -125,13 +125,6 @@ async function WorkQuestion(aaid){
     };
 };
 
-// Sleep functin
-async function sleep(ms){
-    return new Promise((resolve) => {
-        setTimeout(resolve, ms);
-    });
-}; 
-
 // Loop
 (async() => {
     while (true){
