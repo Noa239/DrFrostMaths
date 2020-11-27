@@ -18,7 +18,7 @@ If the link doesn't work, the question you need is called `#9: Adding integers w
 
 After you've done that, look at the URL, it should look something like: `https://www.drfrostmaths.com/do-question.php?aaid=15326547`. You want to get the aaid at the end, so the aaid would be **15326547**.
 
-Great, you've gotten the aaid, now paste it near the end of [index.js](https://github.com/Stefanuk12/DrFrostMaths/blob/main/Bot/index.js#L138) where it says `AAIDHERE`.
+Great, you've gotten the aaid, now paste it near the end of [index.js](https://github.com/Stefanuk12/DrFrostMaths/blob/main/Bot/index.js#L131) where it says `AAIDHERE`.
 
 ### Launching the bot
 After doing all of the above, you will need to open a terminal/command prompt in the installation directory and type the following commands:
