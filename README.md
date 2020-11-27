@@ -3,8 +3,8 @@ A resource on [DrFrostMaths](https://www.drfrostmaths.com/) exploits.
 
 ## How to set up the bot
 Requirements:
+
 • [Node](https://nodejs.org/en/download/) (latest version)
-• NPM (should come with node)
 
 ### Getting the required cookies
 Firstly, you will need to get your `_ga` cookie and your `PHPSESSID`. You can get it by getting the extension called [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en).
